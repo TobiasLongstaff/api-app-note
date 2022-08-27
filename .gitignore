@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+/logs
+/coverage
+.env
+docker-compose.local.yml
+/postman/colleclocal.json
+# production
+/build
+/docker/postgres/data
+firebase-service-account.json
+/.idea
+/docker
+/test/feature
+
+/uploads
+TestController.ts
